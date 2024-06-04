@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Write an expression using any of the string formatting methods we have learned (except f-strings, see note below) to return the phrase 'Python rules!' 
+
+phrase = "python % !" % "rules"
+print(phrase)
